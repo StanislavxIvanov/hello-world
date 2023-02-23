@@ -1,3 +1,3 @@
 # hello-world
 tova e _dynerjiinicata_
-tuk mrazim # NEGRI
+tuk mrazim *NEGRI*
